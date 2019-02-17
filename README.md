@@ -5,7 +5,7 @@
 FriendFinder is a full stack application that will allow the user to enter their answers to 10 questions. 
 Based on the user's response, their compatibility to other users will be determined and they will be shown the name and picture of their best match.
 
-This application is deployed on Heroku.
+This application is deployed on Heroku at https://vast-earth-91599.herokuapp.com/
 
 
 ### Dependencies
